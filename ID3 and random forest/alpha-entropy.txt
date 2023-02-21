@@ -1,0 +1,57 @@
+@int.rate Initial Entropy = 1.98899033021754
+@int.rate, alpha =2 : Entropy is -34443.17035458937
+@int.rate, alpha =3 : Entropy is -73344.44963459326
+@int.rate, alpha =4 : Entropy is -63515.0969750911
+@int.rate, alpha =5 : Entropy is -70014.45158213607
+min entropy alpha is 2
+
+@installment Initial Entropy = 1472.7027683478175
+@installment, alpha =2 : Entropy is -34732.1414501633
+@installment, alpha =3 : Entropy is -73653.75307542662
+@installment, alpha =4 : Entropy is -63854.24373690665
+@installment, alpha =5 : Entropy is -70507.68548155192
+min is 2
+
+@log.annual.inc Initial Entropy = 106.83654356676996
+@log.annual.inc, alpha =2 : Entropy is -34026.41932356287
+@log.annual.inc, alpha =3 : Entropy is -74424.46451334219
+@log.annual.inc, alpha =4 : Entropy is -64278.777434485535
+@log.annual.inc, alpha =5 : Entropy is -70768.09176186331
+min is 2
+
+@dti Initial Entropy = 117.48512954532008
+@dti, alpha =2 : Entropy is -34083.66458010836
+@dti, alpha =3 : Entropy is -72208.05232061999
+@dti, alpha =4 : Entropy is -62455.2380118494
+@dti, alpha =5 : Entropy is -68841.63851991865
+min is 2
+
+@fico Initial Entropy = 2665.724641349559
+@fico, alpha =2 : Entropy is -34105.43941629767
+@fico, alpha =3 : Entropy is -72377.08716526144
+@fico, alpha =4 : Entropy is -62743.37273792542
+@fico, alpha =5 : Entropy is -69201.3113017395
+min is 2
+
+@days.with.cr.line Initial Entropy = 3947.380073560836
+@days.with.cr.line, alpha =2 : Entropy is -36113.678435371585
+@days.with.cr.line, alpha =3 : Entropy is -76663.11647132186
+@days.with.cr.line, alpha =4 : Entropy is -66491.79209919368
+@days.with.cr.line, alpha =5 : Entropy is -73312.3390885706
+min is 2
+
+@revol.bal Initial Entropy = -33610.397289728666
+@revol.bal, alpha =2 : Entropy is -37154.60519475458
+@revol.bal, alpha =3 : Entropy is -80681.79422919767
+@revol.bal, alpha =4 : Entropy is -71716.82062994946
+@revol.bal, alpha =5 : Entropy is -80614.08548962495
+min is 2
+
+@revol.util Initial Entropy = 343.79696960164046
+@revol.util, alpha =2 : Entropy is -34151.443965707294
+@revol.util, alpha =3 : Entropy is -72288.1408765198
+@revol.util, alpha =4 : Entropy is -62557.483323799555
+@revol.util, alpha =5 : Entropy is -68997.68782542282
+min is 2
+
+0.8663883089770354

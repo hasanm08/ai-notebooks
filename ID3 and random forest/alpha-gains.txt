@@ -1,0 +1,57 @@
+@int.rate Initial Entropy = 1.98899033021754
+@int.rate, alpha =2 : Gain is -1.1452652488248105
+@int.rate, alpha =3 : Gain is -10.573714431524339
+@int.rate, alpha =4 : Gain is -24.012088924246445
+@int.rate, alpha =5 : Gain is -42.07580089548233
+int.rate max gain alpha 2
+
+@installment Initial Entropy = 1472.7027683478175
+@installment, alpha =2 : Gain is 1470.2728437819737
+@installment, alpha =3 : Gain is 1464.4068605908353
+@installment, alpha =4 : Gain is 1454.8000954051513
+@installment, alpha =5 : Gain is 1441.859392346722
+installment max gain is alpha 2
+
+@log.annual.inc Initial Entropy = 106.83654356676996
+@log.annual.inc, alpha =2 : Gain is 101.80874957979168
+@log.annual.inc, alpha =3 : Gain is 87.98346476811415
+@log.annual.inc, alpha =4 : Gain is 69.74684404574599
+@log.annual.inc, alpha =5 : Gain is 44.95860530712136
+log.annual.inc max gain is alpha 2
+
+@dti Initial Entropy = 117.48512954532008
+@dti, alpha =2 : Gain is 112.8841657463851
+@dti, alpha =3 : Gain is 103.24429501539083
+@dti, alpha =4 : Gain is 88.78841515346669
+@dti, alpha =5 : Gain is 69.77100866935125
+dti max gain is alpha 2
+
+@fico Initial Entropy = 2665.724641349559
+@fico, alpha =2 : Gain is 2661.2554320696463
+@fico, alpha =3 : Gain is 2650.4550957124193
+@fico, alpha =4 : Gain is 2633.627516856633
+@fico, alpha =5 : Gain is 2611.891765675457
+max gain is alpha 2
+
+@days.with.cr.line Initial Entropy = 3947.380073560836
+@days.with.cr.line, alpha =2 : Gain is 3946.8299310014445
+@days.with.cr.line, alpha =3 : Gain is 3944.1507380705098
+@days.with.cr.line, alpha =4 : Gain is 3938.168247492398
+@days.with.cr.line, alpha =5 : Gain is 3928.725919529222
+max gain is alpha 2
+
+@revol.bal Initial Entropy = -33610.397289728666
+@revol.bal, alpha =2 : Gain is -33610.3970809168
+@revol.bal, alpha =3 : Gain is -33610.39849141743
+@revol.bal, alpha =4 : Gain is -33610.4024430223
+@revol.bal, alpha =5 : Gain is -33610.41918986415
+max gain is alpha 5
+
+@revol.util Initial Entropy = 343.79696960164046
+@revol.util, alpha =2 : Gain is 339.57360794440984
+@revol.util, alpha =3 : Gain is 330.7035483213118
+@revol.util, alpha =4 : Gain is 317.441664950912
+@revol.util, alpha =5 : Gain is 299.879909978005
+max gain is alpha 2
+
+0.8763048016701461
